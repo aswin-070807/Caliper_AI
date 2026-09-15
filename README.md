@@ -2,7 +2,6 @@
 
 **AI-enabled skill intelligence and personalized learning platform for India's Official Statistical System (OSS), integrated with the iGOT Karmayogi ecosystem.**
 
-🔗 **Live App:** [https://statskillaicom.vercel.app/](https://statskillaicom.vercel.app/)
 ## 🧾 Overview
 
 India's Official Statistical System (OSS) — MoSPI, NSO, CSO, NSSO, and state DES units — is rapidly adopting AI, ML, GIS, Big Data, and cloud technologies. Officials producing India's core statistics (GDP, CPI/WPI, IIP, employment surveys, SDG indicators) need continuous, targeted upskilling. While the **iGOT Karmayogi** platform hosts a large course catalogue, it has no mechanism to assess an individual official's existing competencies, identify precise skill gaps, or recommend the most relevant learning path.
