@@ -1,4 +1,4 @@
-# 📊 StatSkill AI — Competency Intelligence Platform
+# 📊 Caliper AI — Competency Intelligence Platform
 
 **AI-enabled skill intelligence and personalized learning platform for India's Official Statistical System (OSS), integrated with the iGOT Karmayogi ecosystem.**
 
