@@ -6,7 +6,7 @@
 
 India's Official Statistical System (OSS) — MoSPI, NSO, CSO, NSSO, and state DES units — is rapidly adopting AI, ML, GIS, Big Data, and cloud technologies. Officials producing India's core statistics (GDP, CPI/WPI, IIP, employment surveys, SDG indicators) need continuous, targeted upskilling. While the **iGOT Karmayogi** platform hosts a large course catalogue, it has no mechanism to assess an individual official's existing competencies, identify precise skill gaps, or recommend the most relevant learning path.
 
-**StatSkill AI** solves this by acting as an intelligence layer on top of iGOT Karmayogi (and NSSTA's TPAC training programmes) — profiling each official, scoring their competencies, identifying gaps, and recommending personalized learning, backed by an AI-powered assessment engine that turns any uploaded training material into instant quizzes.
+**Caliper AI** solves this by acting as an intelligence layer on top of iGOT Karmayogi (and NSSTA's TPAC training programmes) — profiling each official, scoring their competencies, identifying gaps, and recommending personalized learning, backed by an AI-powered assessment engine that turns any uploaded training material into instant quizzes.
 
 ## ❗ The Problem
 
@@ -50,15 +50,12 @@ India's Official Statistical System (OSS) — MoSPI, NSO, CSO, NSSO, and state D
 | Profile Section | ✅ Implemented (basic) |
 | AI-Generated Quiz / Question Test Section | ✅ Implemented |
 | Test Report Downloads | ✅ Implemented |
-| Structured 4-Domain Competency Model | 🔜 In Progress |
-| Skill-Gap Analysis Engine | 🔜 Planned |
-| Recommendation Engine (iGOT + TPAC) | 🔜 Planned |
-| Learner Dashboard (competency view) | 🔜 Planned |
-| Admin Dashboard | 🔜 Planned |
-| iGOT Karmayogi API Integration | 🔜 Planned |
-| AI Virtual Assistant | 🔜 Roadmap |
-| Multilingual Support | 🔜 Roadmap |
-| SSO / RBAC | 🔜 Roadmap |
+| Structured 4-Domain Competency Model | ✅ Implemented |
+| Skill-Gap Analysis Engine | ✅ Implemented |
+| Recommendation Engine (iGOT + TPAC) | ✅ Implemented |
+| Learner Dashboard (competency view) | ✅ Implemented |
+| Admin Dashboard | ✅ Implemented |
+| AI Virtual Assistant | ✅ Implemented |
 
 
 ## 🛠️ Tech Stack
@@ -200,7 +197,7 @@ IGOT_API_KEY=
 > *(confirm — replace with your actual folder layout)*
 
 ```
-statskill-ai/
+caliper-ai/
 ├── app/ or pages/          # Routes: sign-in, sign-up, profile, quiz, reports
 ├── components/             # Reusable UI components
 ├── lib/                    # API clients, auth helpers, AI/LLM integration
