@@ -63,7 +63,6 @@ India's Official Statistical System (OSS) — MoSPI, NSO, CSO, NSSO, and state D
 **Frontend**
 - React.js / Next.js
 - Tailwind CSS
-- Deployed on **Vercel**
 
 **Backend / API**
 - Node.js (Express) or Next.js API routes
@@ -159,13 +158,6 @@ The app will be available at `http://localhost:3000` *(confirm port)*.
 npm run build
 npm start
 ```
-
-### Deployment
-
-This project is deployed on **Vercel**. Any push to the main branch triggers an automatic deployment *(confirm branch/workflow)*.
-
----
-
 ## 🔑 Environment Variables
 
 > *(confirm and replace with your actual `.env` keys)*
